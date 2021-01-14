@@ -1,0 +1,26 @@
+app:
+  name: "web_app"
+  mode: "dev"
+  port: 8080
+  startTime: "2020-11-11"
+  machineID: 1
+log:
+  level: "debug"
+  filename: "bluebull.log"
+  max_size: 200
+  max_age: 30
+  max_backups: 7
+mysql:
+  host: "127.0.0.1"
+  port: 3306
+  dbname: "bluebull"
+  user: "root"
+  password: "youruhe"
+  max_open_conn: 200
+  max_idle_conn: 10
+redis:
+  host: "127.0.0.1"
+  port: 6379
+  db: 0
+  password: "youruhe"
+  pool_size: 100

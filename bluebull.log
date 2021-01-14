@@ -1,0 +1,163 @@
+{"level":"INFO","time":"2020-11-15T16:06:10.690+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"GET","path":"/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0.0010066}
+{"level":"INFO","time":"2020-11-15T16:06:36.232+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-15T16:06:36.234+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"INFO","time":"2020-11-15T16:06:52.201+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"GET","path":"/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0.0010035}
+{"level":"ERROR","time":"2020-11-15T16:07:00.103+0800","caller":"controllers/user.go:18","msg":"SignUp with invalid param","error":"invalid character 'u' looking for beginning of object key string"}
+{"level":"INFO","time":"2020-11-15T16:07:00.106+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0.003124}
+{"level":"INFO","time":"2020-11-15T16:08:19.735+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0.0006762}
+{"level":"INFO","time":"2020-11-15T16:08:46.680+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-15T16:08:46.680+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"INFO","time":"2020-11-15T16:37:24.510+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0.0012143}
+{"level":"ERROR","time":"2020-11-15T16:37:29.073+0800","caller":"controllers/user.go:18","msg":"SignUp with invalid param","error":"Key: 'ParamSignUp.RePassword' Error:Field validation for 'RePassword' failed on the 'eqfield' tag"}
+{"level":"INFO","time":"2020-11-15T16:37:29.076+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0.0029306}
+{"level":"INFO","time":"2020-11-15T16:37:43.543+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-15T16:37:43.543+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"ERROR","time":"2020-11-15T16:40:05.522+0800","caller":"controllers/user.go:20","msg":"SignUp with invalid param","error":"Key: 'ParamSignUp.RePassword' Error:Field validation for 'RePassword' failed on the 'eqfield' tag"}
+{"level":"INFO","time":"2020-11-15T16:40:05.574+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0.0544225}
+{"level":"INFO","time":"2020-11-15T16:42:13.493+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-15T16:42:13.493+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"ERROR","time":"2020-11-15T16:42:24.680+0800","caller":"controllers/user.go:20","msg":"SignUp with invalid param","error":"Key: 'ParamSignUp.re_password' Error:Field validation for 're_password' failed on the 'eqfield' tag"}
+{"level":"INFO","time":"2020-11-15T16:42:24.731+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0.0514435}
+{"level":"INFO","time":"2020-11-15T16:43:26.042+0800","caller":"logger/logger.go:71","msg":"/abs","status":200,"method":"GET","path":"/abs","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36","errors":"","cost":0.001135}
+{"level":"INFO","time":"2020-11-15T16:43:26.061+0800","caller":"logger/logger.go:71","msg":"/favicon.ico","status":200,"method":"GET","path":"/favicon.ico","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2020-11-15T16:44:25.615+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-15T16:44:25.615+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"ERROR","time":"2020-11-16T20:59:18.492+0800","caller":"controllers/user.go:20","msg":"SignUp with invalid param","error":"Key: 'ParamSignUp.re_password' Error:Field validation for 're_password' failed on the 'eqfield' tag"}
+{"level":"INFO","time":"2020-11-16T20:59:18.560+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0.0689976}
+{"level":"INFO","time":"2020-11-16T20:59:31.089+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0.0049974}
+{"level":"ERROR","time":"2020-11-16T20:59:36.728+0800","caller":"controllers/user.go:46","msg":"SignUp into database failed","error":"用户已存在"}
+{"level":"INFO","time":"2020-11-16T20:59:36.729+0800","caller":"logger/logger.go:71","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0.0019996}
+{"level":"INFO","time":"2020-11-16T21:18:47.250+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-16T21:18:47.250+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"ERROR","time":"2020-11-16T21:19:07.133+0800","caller":"controllers/user.go:44","msg":"SignUp into database failed","error":"用户已存在"}
+{"level":"INFO","time":"2020-11-16T21:19:07.164+0800","caller":"logger/logger.go:80","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0.0340672}
+{"level":"ERROR","time":"2020-11-20T19:49:37.690+0800","caller":"controllers/user.go:19","msg":"SignUp with invalid param","error":"Key: 'ParamSignUp.re_password' Error:Field validation for 're_password' failed on the 'required' tag"}
+{"level":"INFO","time":"2020-11-20T19:49:37.752+0800","caller":"logger/logger.go:80","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0.0630569}
+{"level":"ERROR","time":"2020-11-20T19:50:00.457+0800","caller":"controllers/user.go:63","msg":"log.Login failed","error":"missing destination name id in *models.User"}
+{"level":"INFO","time":"2020-11-20T19:50:00.457+0800","caller":"logger/logger.go:80","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0.0070651}
+{"level":"INFO","time":"2020-11-20T19:51:55.875+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-20T19:51:55.876+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"ERROR","time":"2020-11-20T19:52:15.387+0800","caller":"controllers/user.go:63","msg":"log.Login failed","error":"missing destination name id in *models.User"}
+{"level":"INFO","time":"2020-11-20T19:52:15.438+0800","caller":"logger/logger.go:80","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0.0524691}
+{"level":"ERROR","time":"2020-11-20T19:53:09.760+0800","caller":"controllers/user.go:63","msg":"log.Login failed","error":"missing destination name id in *models.User"}
+{"level":"INFO","time":"2020-11-20T19:53:09.761+0800","caller":"logger/logger.go:80","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0.0035561}
+{"level":"INFO","time":"2020-11-20T19:55:08.134+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-20T19:55:08.135+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"ERROR","time":"2020-11-20T19:57:11.529+0800","caller":"controllers/user.go:63","msg":"log.Login failed","error":"用户不存在"}
+{"level":"INFO","time":"2020-11-20T19:57:11.581+0800","caller":"logger/logger.go:80","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0.0572396}
+{"level":"ERROR","time":"2020-11-20T19:57:19.310+0800","caller":"controllers/user.go:63","msg":"log.Login failed","error":"用户名或密码错误"}
+{"level":"INFO","time":"2020-11-20T19:57:19.311+0800","caller":"logger/logger.go:80","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0.003613}
+{"level":"ERROR","time":"2020-11-20T19:57:35.906+0800","caller":"controllers/user.go:63","msg":"log.Login failed","error":"用户名或密码错误"}
+{"level":"INFO","time":"2020-11-20T19:57:35.906+0800","caller":"logger/logger.go:80","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0.0006714}
+{"level":"INFO","time":"2020-11-20T19:57:41.312+0800","caller":"logger/logger.go:80","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0.0012977}
+{"level":"INFO","time":"2020-11-20T20:00:33.667+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-20T20:00:33.667+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"INFO","time":"2020-12-13T21:41:28.432+0800","caller":"logger/logger.go:80","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0.0040014}
+{"level":"ERROR","time":"2020-12-13T21:42:29.175+0800","caller":"controllers/user.go:20","msg":"SignUp with invalid param","error":"Key: 'ParamSignUp.username' Error:Field validation for 'username' failed on the 'required' tag"}
+{"level":"INFO","time":"2020-12-13T21:42:29.175+0800","caller":"logger/logger.go:80","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0}
+{"level":"ERROR","time":"2020-12-13T21:43:23.033+0800","caller":"controllers/user.go:20","msg":"SignUp with invalid param","error":"invalid character 'u' looking for beginning of object key string"}
+{"level":"INFO","time":"2020-12-13T21:43:23.033+0800","caller":"logger/logger.go:80","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0}
+{"level":"ERROR","time":"2020-12-13T21:45:37.929+0800","caller":"controllers/user.go:20","msg":"SignUp with invalid param","error":"invalid character 'u' looking for beginning of object key string"}
+{"level":"INFO","time":"2020-12-13T21:45:37.929+0800","caller":"logger/logger.go:80","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0.0009995}
+{"level":"INFO","time":"2020-12-13T21:46:22.023+0800","caller":"logger/logger.go:80","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0.002999}
+{"level":"INFO","time":"2020-12-20T17:55:31.717+0800","caller":"logger/logger.go:80","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0.0379851}
+{"level":"INFO","time":"2020-12-20T18:08:23.017+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-12-20T18:08:23.017+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"INFO","time":"2020-12-20T18:10:46.008+0800","caller":"logger/logger.go:80","msg":"/ping","status":200,"method":"POST","path":"/ping","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0}
+{"level":"INFO","time":"2020-12-20T18:11:27.851+0800","caller":"logger/logger.go:80","msg":"/ping","status":200,"method":"GET","path":"/ping","query":"","ip":"::1","user-agent":"PostmanRuntime/7.24.1","errors":"","cost":0}
+{"level":"INFO","time":"2020-12-20T18:11:48.959+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-12-20T18:11:48.959+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"INFO","time":"2020-12-26T15:20:29.489+0800","caller":"logger/logger.go:80","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.0123818}
+{"level":"INFO","time":"2020-12-26T15:20:41.379+0800","caller":"logger/logger.go:80","msg":"/ping","status":200,"method":"GET","path":"/ping","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0}
+{"level":"INFO","time":"2020-12-26T15:23:52.968+0800","caller":"logger/logger.go:80","msg":"/ping","status":200,"method":"GET","path":"/ping","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0}
+{"level":"INFO","time":"2020-12-26T15:24:08.858+0800","caller":"logger/logger.go:80","msg":"/ping","status":200,"method":"GET","path":"/ping","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.001021}
+{"level":"INFO","time":"2020-12-26T15:58:34.921+0800","caller":"logger/logger.go:80","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.0010255}
+{"level":"INFO","time":"2020-12-26T15:58:58.874+0800","caller":"logger/logger.go:80","msg":"/ping","status":200,"method":"GET","path":"/ping","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0}
+{"level":"ERROR","time":"2020-12-27T22:41:32.196+0800","caller":"controllers/user.go:56","msg":"log.Login failed","error":"redis: client is closed"}
+{"level":"INFO","time":"2020-12-27T22:41:32.251+0800","caller":"logger/logger.go:80","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.0590273}
+{"level":"INFO","time":"2020-12-27T22:45:02.171+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-12-27T22:45:02.172+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"ERROR","time":"2020-12-27T22:45:12.102+0800","caller":"controllers/user.go:56","msg":"log.Login failed","error":"redis: client is closed"}
+{"level":"INFO","time":"2020-12-27T22:45:12.127+0800","caller":"logger/logger.go:80","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.0269993}
+{"level":"INFO","time":"2020-12-27T22:53:40.453+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-12-27T22:53:40.453+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"INFO","time":"2020-12-27T22:53:56.995+0800","caller":"logger/logger.go:80","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.0094054}
+{"level":"INFO","time":"2020-12-27T22:54:10.007+0800","caller":"logger/logger.go:80","msg":"/ping","status":200,"method":"GET","path":"/ping","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0}
+{"level":"INFO","time":"2020-12-27T22:54:15.347+0800","caller":"logger/logger.go:80","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.0010021}
+{"level":"INFO","time":"2020-12-27T22:54:20.685+0800","caller":"logger/logger.go:80","msg":"/ping","status":200,"method":"GET","path":"/ping","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0}
+{"level":"INFO","time":"2020-12-27T22:54:26.698+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-12-27T22:54:26.699+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"ERROR","time":"2020-12-27T22:58:41.953+0800","caller":"controllers/user.go:20","msg":"SignUp with invalid param","error":"Key: 'ParamSignUp.re_password' Error:Field validation for 're_password' failed on the 'eqfield' tag"}
+{"level":"INFO","time":"2020-12-27T22:58:41.984+0800","caller":"logger/logger.go:80","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.0309994}
+{"level":"INFO","time":"2021-01-04T22:40:40.745+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-01-04T22:40:40.767+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"INFO","time":"2021-01-04T22:41:29.063+0800","caller":"logger/logger.go:80","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.0140242}
+{"level":"INFO","time":"2021-01-04T22:41:46.677+0800","caller":"logger/logger.go:80","msg":"/ping","status":200,"method":"GET","path":"/ping","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.000994}
+{"level":"INFO","time":"2021-01-04T22:43:40.417+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-01-04T22:43:40.417+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"INFO","time":"2021-01-04T22:43:58.882+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-01-04T22:43:58.902+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"INFO","time":"2021-01-04T22:44:33.158+0800","caller":"logger/logger.go:80","msg":"/ping","status":200,"method":"GET","path":"/ping","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.0009973}
+{"level":"INFO","time":"2021-01-04T22:55:14.642+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-01-04T22:55:14.642+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"INFO","time":"2021-01-04T22:55:34.872+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-01-04T22:55:34.893+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"INFO","time":"2021-01-04T23:09:03.365+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-01-04T23:09:03.386+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"INFO","time":"2021-01-04T23:09:16.666+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-01-04T23:09:16.685+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"INFO","time":"2021-01-06T17:44:18.902+0800","caller":"logger/logger.go:80","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.0019951}
+{"level":"ERROR","time":"2021-01-06T17:45:21.754+0800","caller":"controllers/community.go:15","msg":"logic.GetCommunityList() failed","error":"missing destination name community_id in *[]*models.Community"}
+{"level":"INFO","time":"2021-01-06T17:45:21.754+0800","caller":"logger/logger.go:80","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.00299}
+{"level":"INFO","time":"2021-01-06T17:47:48.693+0800","caller":"logger/logger.go:80","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.0017061}
+{"level":"ERROR","time":"2021-01-06T17:57:07.858+0800","caller":"mysql/mysql.go:26","msg":"connect mysql failed,","error":"unknown time zone local"}
+{"level":"ERROR","time":"2021-01-06T18:26:29.237+0800","caller":"controllers/community.go:36","msg":"GetCommunityDetail failed","error":"scannable dest type ptr with >1 columns (4) in result"}
+{"level":"INFO","time":"2021-01-06T18:26:29.265+0800","caller":"logger/logger.go:80","msg":"/api/v1/community/1","status":200,"method":"GET","path":"/api/v1/community/1","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.0284345}
+{"level":"INFO","time":"2021-01-06T18:29:05.277+0800","caller":"logger/logger.go:80","msg":"/api/v1/community/a","status":200,"method":"GET","path":"/api/v1/community/a","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0}
+{"level":"ERROR","time":"2021-01-06T18:29:29.729+0800","caller":"controllers/community.go:36","msg":"GetCommunityDetail failed","error":"scannable dest type ptr with >1 columns (4) in result"}
+{"level":"INFO","time":"2021-01-06T18:29:29.730+0800","caller":"logger/logger.go:80","msg":"/api/v1/community/2","status":200,"method":"GET","path":"/api/v1/community/2","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.0009972}
+{"level":"ERROR","time":"2021-01-06T18:30:12.578+0800","caller":"controllers/community.go:36","msg":"GetCommunityDetail failed","error":"nil pointer passed to StructScan destination"}
+{"level":"INFO","time":"2021-01-06T18:30:12.607+0800","caller":"logger/logger.go:80","msg":"/api/v1/community/2","status":200,"method":"GET","path":"/api/v1/community/2","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.0299328}
+{"level":"INFO","time":"2021-01-06T18:30:31.238+0800","caller":"logger/logger.go:80","msg":"/api/v1/community/2","status":200,"method":"GET","path":"/api/v1/community/2","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.0279041}
+{"level":"INFO","time":"2021-01-06T18:30:50.093+0800","caller":"logger/logger.go:80","msg":"/api/v1/community/2","status":200,"method":"GET","path":"/api/v1/community/2","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.023919}
+{"level":"INFO","time":"2021-01-06T18:31:40.160+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-01-06T18:31:40.178+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"INFO","time":"2021-01-09T09:25:44.179+0800","caller":"logger/logger.go:80","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0}
+{"level":"INFO","time":"2021-01-09T09:27:59.713+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-01-09T09:27:59.713+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"INFO","time":"2021-01-09T09:28:09.050+0800","caller":"logger/logger.go:80","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.0059801}
+{"level":"INFO","time":"2021-01-09T09:28:48.075+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-01-09T09:28:48.090+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"ERROR","time":"2021-01-09T09:28:57.439+0800","caller":"controllers/post.go:33","msg":"logic.CreatePost(p) failed","error":"Error 1364: Field 'post_id' doesn't have a default value"}
+{"level":"INFO","time":"2021-01-09T09:28:57.463+0800","caller":"logger/logger.go:80","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.0259111}
+{"level":"INFO","time":"2021-01-09T09:30:07.426+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-01-09T09:30:07.440+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"INFO","time":"2021-01-09T09:30:15.867+0800","caller":"logger/logger.go:80","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.0069792}
+{"level":"INFO","time":"2021-01-09T09:30:48.608+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-01-09T09:30:48.615+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"INFO","time":"2021-01-09T09:54:24.206+0800","caller":"logger/logger.go:80","msg":"/api/v1/post/21403599837859840","status":200,"method":"GET","path":"/api/v1/post/21403599837859840","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.001995}
+{"level":"INFO","time":"2021-01-09T09:56:14.839+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-01-09T09:56:14.847+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"INFO","time":"2021-01-09T09:58:04.706+0800","caller":"logger/logger.go:80","msg":"/api/v1/post/21403599837859840","status":200,"method":"GET","path":"/api/v1/post/21403599837859840","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.0028306}
+{"level":"INFO","time":"2021-01-09T09:58:12.420+0800","caller":"logger/logger.go:80","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.0039887}
+{"level":"INFO","time":"2021-01-09T09:58:17.308+0800","caller":"logger/logger.go:80","msg":"/api/v1/post/21403599837859840","status":200,"method":"GET","path":"/api/v1/post/21403599837859840","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0}
+{"level":"INFO","time":"2021-01-09T09:58:55.263+0800","caller":"logger/logger.go:80","msg":"/api/v1/post/21403599837859840","status":200,"method":"GET","path":"/api/v1/post/21403599837859840","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.0009958}
+{"level":"INFO","time":"2021-01-09T10:00:05.654+0800","caller":"logger/logger.go:80","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.0009968}
+{"level":"INFO","time":"2021-01-09T10:00:37.170+0800","caller":"logger/logger.go:80","msg":"/api/v1/post/21403599837859840","status":200,"method":"GET","path":"/api/v1/post/21403599837859840","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.0009843}
+{"level":"INFO","time":"2021-01-09T10:01:26.476+0800","caller":"logger/logger.go:80","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.0029907}
+{"level":"INFO","time":"2021-01-09T10:02:12.698+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-01-09T10:02:12.698+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"INFO","time":"2021-01-09T10:04:25.601+0800","caller":"logger/logger.go:80","msg":"/api/v1/post/21403599837859840","status":200,"method":"GET","path":"/api/v1/post/21403599837859840","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.0289169}
+{"level":"INFO","time":"2021-01-09T10:04:31.426+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-01-09T10:04:31.426+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"INFO","time":"2021-01-09T17:10:18.994+0800","caller":"logger/logger.go:80","msg":"/api/v1/post/21403599837859840","status":200,"method":"GET","path":"/api/v1/post/21403599837859840","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.020715}
+{"level":"INFO","time":"2021-01-09T17:10:27.412+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-01-09T17:10:27.412+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"ERROR","time":"2021-01-09T17:32:53.898+0800","caller":"logic/post.go:49","msg":"mysql.GetPostList() failed","error":"must pass a pointer, not a value, to StructScan destination"}
+{"level":"ERROR","time":"2021-01-09T17:32:53.922+0800","caller":"controllers/post.go:64","msg":"logic.GetPostList() failed","error":"must pass a pointer, not a value, to StructScan destination"}
+{"level":"INFO","time":"2021-01-09T17:32:53.922+0800","caller":"logger/logger.go:80","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.0259209}
+{"level":"INFO","time":"2021-01-09T17:33:27.821+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-01-09T17:33:27.821+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
+{"level":"INFO","time":"2021-01-09T17:33:35.695+0800","caller":"logger/logger.go:80","msg":"/api/v1/posts","status":200,"method":"GET","path":"/api/v1/posts","query":"","ip":"::1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0.0289037}
+{"level":"INFO","time":"2021-01-09T17:33:46.087+0800","caller":"bluebull/main.go:78","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-01-09T17:33:46.087+0800","caller":"bluebull/main.go:87","msg":"Server exiting"}
