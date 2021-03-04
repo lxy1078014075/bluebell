@@ -25,7 +25,7 @@ func GetPostList() (data []*models.Post, err error) {
 	data = make([]*models.Post, 0, 2)
 	sqlStr := `select post_id,title,content,author_id,community_id,create_time
 	from post
-	limit 2
+	limit 10
 	`
 	err = db.Select(&data, sqlStr)
 	return

@@ -2,6 +2,7 @@ package logic
 
 import (
 	"web/bluebull/dao/mysql"
+	"web/bluebull/dao/redis"
 	"web/bluebull/models"
 	"web/bluebull/pkg/snowflake"
 
@@ -10,7 +11,12 @@ import (
 
 func CreatePost(p *models.Post) (err error) {
 	p.ID = snowflake.GetID()
-	return mysql.CreatePost(p)
+
+	err = mysql.CreatePost(p)
+	if err != nil {
+		return err
+	}
+	return redis.CreatePost(p.ID)
 }
 
 func GetPostByID(id int64) (data *models.ApiPostDetail, err error) {

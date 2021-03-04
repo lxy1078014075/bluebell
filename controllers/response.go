@@ -9,7 +9,7 @@ import (
 type Response struct {
 	Code Code        `json:"code"`
 	Msg  interface{} `json:"msg"`
-	Data interface{} `json:"data"`
+	Data interface{} `json:"data,omitempty"`
 }
 
 func ResponseError(c *gin.Context, code Code) {
