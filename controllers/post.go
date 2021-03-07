@@ -59,7 +59,31 @@ func GetPostDetailHandler(c *gin.Context) {
 }
 
 func GetPostListHandler(c *gin.Context) {
-	data, err := logic.GetPostList()
+	page, size := getPageInfo(c)
+	data, err := logic.GetPostList(page, size)
+	if err != nil {
+		zap.L().Error("logic.GetPostList() failed", zap.Error(err))
+		ResponseError(c, CodeServerBusy)
+		return
+	}
+	ResponseSuccess(c, data)
+}
+
+// GetPostListHandler2 升级版的获取帖子接口
+// 根据创建时间和分数来获取帖子列表
+func GetPostListHandler2(c *gin.Context) {
+	p := &models.ParamPostList{
+		Page:  0,
+		Size:  0,
+		Order: models.OrderTime,
+	}
+	if err := c.ShouldBindQuery(p); err != nil {
+		zap.L().Error("GetPostListHandler2 with invalid params", zap.Error(err))
+		ResponseError(c, CodeInvalidParam)
+		return
+	}
+	//page, size := getPageInfo(c)
+	data, err := logic.GetPostList2(p)
 	if err != nil {
 		zap.L().Error("logic.GetPostList() failed", zap.Error(err))
 		ResponseError(c, CodeServerBusy)
